@@ -1,4 +1,4 @@
-
+#90 Tage bis zum JuniorDev
 
 def main():
     #ein lernprojekt
