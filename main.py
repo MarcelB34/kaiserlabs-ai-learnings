@@ -1,5 +1,5 @@
 #90 Tage bis zum JuniorDev
-
+# zusätze wurde installiert
 def main():
     #ein lernprojekt
 
